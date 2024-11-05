@@ -10,6 +10,8 @@ Thành viên nhóm:
 - Trần Thế Anh - 20521081
 - Trần Bạch Đằng - 20520888
 
+## Đề tài: Triển khai ứng dụng Microservice sử dụng Docker, Kubernetes
+
 ## Kiến trúc hệ thống
 
 ![app architecture image](./app-architecture.png)
